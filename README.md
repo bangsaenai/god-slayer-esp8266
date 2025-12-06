@@ -4,7 +4,7 @@
 > **Target:** Nonlinear Stochastic Systems.
 > **Status:** **SOUL-BOUND** (Hardware Locked).
 
-![God Slayer Hardware](https://raw.githubusercontent.com/bangsaenai/koopman-safeguard-python/main/NodeMCU.jpg)
+![God Slayer Hardware](https://raw.githubusercontent.com/bangsaenai/koopman-safeguard-python/main/NodeMCU.png)
 
 ---
 
